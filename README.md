@@ -38,7 +38,7 @@
 * Designed new dataset to include workingdays
 
 ## Resources
-Kaggle - https://www.kaggle.com/c/bike-sharing-demand < br/>
-Capital Bike Share - https://www.capitalbikeshare.com/system-data < br/>
-W3 - https://www.w3schools.com/tags/tag_select.asp < br/>
+Kaggle - https://www.kaggle.com/c/bike-sharing-demand <br />
+Capital Bike Share - https://www.capitalbikeshare.com/system-data <br />
+W3 - https://www.w3schools.com/tags/tag_select.asp <br />
 Chart Blocks - http://www.chartblocks.com/en/support/faqs/faq/when-to-use-a-line-chart
