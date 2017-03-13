@@ -32,7 +32,7 @@
 	* None, it makes sense.
 
 ## Enhancements
-* Aded workingday picklist
+* Added workingday picklist
 * Added descriptions of picklists
 * Added chart title for graphs
 * Designed new dataset to include workingdays
