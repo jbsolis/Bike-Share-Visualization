@@ -81,7 +81,7 @@
             "Working Day", ["Yes", "No"]);
 
 
-          //Set default filter to winter
+          //Set default filter to winter and yes - working day
           var myChart = new dimple.chart(svg, data);
           myChart.data = dimple.filterData(dimple.filterData(
             data, "Season", "Winter"),

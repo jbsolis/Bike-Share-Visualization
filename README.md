@@ -1,7 +1,7 @@
-# Bike Share Demand
+# Washington D.C. Hourly Bike Rental by Season
 
 ## Summary
-* The chart shows average hourly bike demand by rider type
+* The chart shows average hourly bike retnal by rider type
 * You can see which type of rider is most affected by season
 * Chart shows what time of day bike demand is highest amongst registered and casual riders
 
