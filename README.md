@@ -1,4 +1,4 @@
-# Washington D.C. Hourly Bike Rental by Season
+# Average Bike Rentals for Casual Riders are Lowest in Fall and Winter
 
 ## Summary
 * The chart shows average hourly bike retnal by rider type

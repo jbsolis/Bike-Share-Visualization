@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<h1 id = "title">Washington D.C. Hourly Bike Rental by Season</h1>
+<h1 id = "title">Average Bike Rentals for Casual Riders are Lowest in Fall and Winter</h1>
 <p id = "seasonsText">Season</p>
 <p id = "workingDayText">Working Day</p>
 
@@ -94,11 +94,13 @@
                           "16","17","18","19","20",
                           "21","22","23"]);
           x.title = "Hour in the Day";
+          x.fontSize = 12;
           var y = myChart.addMeasureAxis("y", "Avg Riders");
           // Set min/max for y axis to show difference in average riders
           y.overrideMin = 0;
           y.overrideMax = 600;
           y.title = "Average Renters";
+          y.fontSize = 12;
           var mySeries = myChart.addSeries('Rider Type', dimple.plot.line);
           mySeries.lineMarkers = true;
           myChart.addLegend(400, 25, 510, 20, "right");
